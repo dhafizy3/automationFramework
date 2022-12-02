@@ -28,3 +28,18 @@
 2021-11-18 12:45:20,535 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
 2021-12-06 10:18:50,990 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
 2021-12-06 10:18:57,859 - logger_File -INFO - Scenario User empty Shopping cart message displays FAILED
+2022-06-08 14:50:25,627 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-06-08 14:50:32,929 - logger_File -INFO - expected and actual are the same
+2022-06-08 14:50:33,231 - logger_File -INFO - user clicked on shopping cart
+2022-06-08 14:50:33,357 - logger_File -INFO - user saw the empty message for cart
+2022-06-08 14:50:33,792 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-07-20 16:40:31,951 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-07-20 16:40:41,374 - logger_File -INFO - expected and actual are the same
+2022-07-20 16:40:41,678 - logger_File -INFO - user clicked on shopping cart
+2022-07-20 16:40:41,803 - logger_File -INFO - user saw the empty message for cart
+2022-07-20 16:40:42,549 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-07-21 15:22:48,911 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-07-21 15:22:59,992 - logger_File -INFO - expected and actual are the same
+2022-07-21 15:23:00,481 - logger_File -INFO - user clicked on shopping cart
+2022-07-21 15:23:00,595 - logger_File -INFO - user saw the empty message for cart
+2022-07-21 15:23:01,266 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
