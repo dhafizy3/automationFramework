@@ -24,6 +24,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="/com.tekschool.us.retail.hawks.completeFramework"/>
+	<classpathentry kind="src" path="/com.demo.us.retail.hawks.completeFramework"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
