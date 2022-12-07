@@ -14,7 +14,7 @@ public class AddToCartStepDefinitions extends Base {
 	
 	AddToCartPageObject addToCart = new AddToCartPageObject();
 	DesktopsPageObject des1 = new DesktopsPageObject();
-	
+	//this comment is just an example on how to pull the code and then merge to feature branch
 	
 	@Given("^User is on website$")
 	public void user_is_on_Retail_website() {
