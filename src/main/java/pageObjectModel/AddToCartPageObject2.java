@@ -6,9 +6,9 @@ import org.openqa.selenium.support.PageFactory;
 
 import core.Base;
 
-public class AddToCartPageObject extends Base {
+public class AddToCartPageObject2 extends Base {
 	
-	public AddToCartPageObject() {
+	public AddToCartPageObject2() {
 		PageFactory.initElements(driver, this);
 	}
 	
